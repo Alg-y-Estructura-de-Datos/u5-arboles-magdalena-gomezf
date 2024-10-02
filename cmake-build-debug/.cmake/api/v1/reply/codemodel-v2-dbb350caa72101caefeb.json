@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Plantilla_A1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "EJ1avi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EJ1avi-Debug-586728633eaf466f257f.json",
+					"name" : "EJ1avi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej1-Debug-da12bb652f373e5e6d79.json",
+					"name" : "Ej1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej2-Debug-b773898a1b924cde650c.json",
+					"name" : "Ej2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej3-Debug-1f7c8eaaf48895d49df9.json",
+					"name" : "Ej3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ej4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ej4-Debug-d592d85499112583f96a.json",
+					"name" : "ej4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ej5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ej5-Debug-db13d2c1f6613678173c.json",
+					"name" : "ej5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u5-arboles-magdalena-gomezf/cmake-build-debug",
+		"source" : "C:/Users/Magdalena/Documents/Facu/Segundo anio/Programacion III/u5-arboles-magdalena-gomezf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
